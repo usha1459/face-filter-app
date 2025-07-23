@@ -1,6 +1,4 @@
 streamlit
 opencv-python
-mediapipe
-numpy
-qrcode
 Pillow
+numpy
